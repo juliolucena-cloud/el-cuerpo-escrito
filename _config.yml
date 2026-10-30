@@ -6,16 +6,16 @@
 # Los valores con dos puntos, comas o comillas van entre comillas dobles.
 
 # Título de la colección: aparece en la cabecera de la portada, en el pie y en la pestaña del navegador
-title: Portadas y encabezamientos de impresos hispánicos
+title: "El cuerpo escrito: historia de la danza a través de documentos digitales"
 
 # Subtítulo breve bajo el título de la portada; puede dejarse vacío
-tagline: Colección de ejemplo para el Máster en Humanidades y Patrimonio Digitales (UAB)
+tagline: "Una colección digital sobre la historia de la danza y su patrimonio documental"
 
 # Descripción de una o dos frases: aparece en la portada y en el pie, y la leen los buscadores
-description: "Portadas y títulos de cabecera de ediciones antiguas en castellano, reunidos a partir de bibliotecas digitales enlazadas en Europeana, con sus metadatos y sus transcripciones."
+description: "Una exploración de la historia de la danza a través de documentos, tratados, imágenes y testimonios históricos digitalizados, contextualizados desde las humanidades digitales."
 
 # Autoría: nombres de quienes hacen la colección
-author: David Merino Recalde
+author: Julio Lucena
 
 # Enlace a la hoja de metadatos publicada como CSV
 # (en Google Sheets: Archivo > Compartir > Publicar en la web > Hoja completa, formato CSV).
